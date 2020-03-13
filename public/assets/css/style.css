@@ -4,19 +4,19 @@ li {
     background: #faebd7;
   }
   
-  .label {
-    font-weight: bold;
-  }
+.label {
+  font-weight: bold;
+}
   
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
   
-  .form-group {
-    margin-bottom: 5px;
-  }
+.form-group {
+  margin-bottom: 5px;
+}
 
 body{
   background-color: rgb(253, 211, 147)
