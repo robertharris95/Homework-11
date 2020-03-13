@@ -4,6 +4,7 @@
   "description": "The Eleventh Homework for the Rice Full-Stack Coding Bootcamp",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,4 +26,5 @@
     "handlebars-helper-css": "^0.1.0",
     "minimatch": "^3.0.2"
   }
+
 }
